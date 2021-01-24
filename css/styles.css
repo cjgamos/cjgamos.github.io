@@ -83,20 +83,21 @@ h3 {
     top: 50%;
     width: 300px;
     height: 100px;
+    animation-duration: 30s;
 }
 
 .cloud.two {
     top: 30%;
     width: 300px;
     height: 100px;
-    animation-duration: 10s;
+    animation-duration: 60s;
 }
 
 .cloud.three {
     top: 30%;
     width: 60px;
     height: 20px;
-    animation-duration: 15s;
+    animation-duration: 90s;
 }
 
 .cloud {
